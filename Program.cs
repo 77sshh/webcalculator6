@@ -1,6 +1,8 @@
+using Confluent.Kafka;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using webcalculator6.Data;
+using webcalculator6.Services;
 
 
 namespace webcalculator6
@@ -20,6 +22,11 @@ namespace webcalculator6
                Version(10, 5, 15)));
             });
             builder.Services.AddRazorPages();
+            builder.Services.AddHttpClient();
+            builder.Services.AddHostedService<KafkaConsumerService>();
+            builder.Services.AddSingleton<KafkaProducerHandler>();
+            builder.Services.AddSingleton<KafkaProducerService<Null,
+            string>>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

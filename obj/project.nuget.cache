@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8PupBUvI5gI=",
+  "dgSpecHash": "mzxSBlbuVd0=",
   "success": true,
   "projectFilePath": "C:\\Users\\shys0\\source\\repos\\webcalculator6\\webcalculator6\\webcalculator6.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shys0\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
     "C:\\Users\\shys0\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\shys0\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512",
     "C:\\Users\\shys0\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\shys0\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\shys0\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
