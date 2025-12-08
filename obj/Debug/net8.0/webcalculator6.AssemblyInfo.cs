@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webcalculator6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bb5962ceb6449d03d4ecbb766b7b65c02f4dbcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ec935fda55fb9ca20aeefbbe674b520d2f2742e")]
 [assembly: System.Reflection.AssemblyProductAttribute("webcalculator6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webcalculator6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@ using webcalculator6.Data;
 namespace webcalculator6.Migrations
 {
     [DbContext(typeof(CalculatorContext))]
-    [Migration("20251208060118_m_init2")]
+    [Migration("20251208064043_m_init2")]
     partial class m_init2
     {
         /// <inheritdoc />
