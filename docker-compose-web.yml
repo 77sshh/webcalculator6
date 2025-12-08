@@ -1,6 +1,6 @@
-web:
- container_name: web-app-calculator-6
- hostname: app
- build: webcalculator6/
- ports:
- - "0.0.0.0:5006:5006"
+services:
+  web:
+    container_name: web-app-calculator-6
+    build: webcalculator6/
+    ports:
+      - "0.0.0.0:5006:5006"
