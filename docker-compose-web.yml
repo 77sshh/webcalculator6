@@ -1,7 +1,0 @@
-services:
-  web:
-    container_name: 6_calculator-web
-    build: webcalculator6/
-    ports:
-      - "0.0.0.0:5006:5006"
-
