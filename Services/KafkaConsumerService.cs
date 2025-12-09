@@ -9,9 +9,6 @@ using System.Threading.Tasks;
 using webcalculator6.Controllers;
 using webcalculator6.Data;
 
-
-
-
 namespace webcalculator6.Services
 {
     using System;

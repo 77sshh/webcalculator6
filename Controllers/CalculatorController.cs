@@ -8,10 +8,7 @@ using webcalculator6.Services;
 
 namespace webcalculator6.Controllers
 {
-    public enum Operation
-    {
-        Add, Subtract, Multiply, Divide
-    }
+
     public class CalculatorController : Controller
     {
         private readonly CalculatorContext _context;
