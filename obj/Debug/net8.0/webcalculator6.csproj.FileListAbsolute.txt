@@ -32,3 +32,4 @@ C:\Users\shys0\source\repos\webcalculator6\webcalculator6\obj\Debug\net8.0\webca
 C:\Users\shys0\source\repos\webcalculator6\webcalculator6\obj\Debug\net8.0\webcalculator6.genruntimeconfig.cache
 C:\Users\shys0\source\repos\webcalculator6\webcalculator6\obj\Debug\net8.0\ref\webcalculator6.dll
 C:\Users\shys0\source\repos\webcalculator6\webcalculator6\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shys0\source\repos\webcalculator6\webcalculator6\obj\Debug\net8.0\webcalculator6.sourcelink.json
